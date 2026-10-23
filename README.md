@@ -4,10 +4,10 @@
 
 **CoRL 2026**
 
-[Project Page](https://logosroboticsgroup.github.io/x-wbc/) ·
+[Project Page](https://logosintelligencelab.github.io/x-wbc/) ·
 [Paper](https://arxiv.org/abs/2609.15213) ·
 [Video](https://youtu.be/2FJbr1BD6kA) ·
-[Repository](https://github.com/LogosRoboticsGroup/x-wbc)
+[Repository](https://github.com/LogosIntelligenceLab/x-wbc)
 
 </div>
 
