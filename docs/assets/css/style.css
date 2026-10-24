@@ -171,6 +171,8 @@ nav a:hover { color: var(--ink); }
   font-size: 13px;
 }
 
+.affiliations span { display: inline-block; }
+
 .hero-actions {
   display: flex;
   flex-wrap: wrap;

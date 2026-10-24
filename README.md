@@ -18,6 +18,14 @@
 > training assets are still being prepared for public release. Star or watch the
 > repository to follow future updates.
 
+## Authors
+
+Juntong Zhang<sup>1,2,4</sup> · Chun Gu<sup>1,3,4</sup> · Li Zhang<sup>1,3,4,*</sup>
+
+<sup>1</sup>Shanghai Innovation Institute · <sup>2</sup>Tongji University · <sup>3</sup>Fudan University · <sup>4</sup>Logos Intelligence Lab
+
+<sup>*</sup>Corresponding author.
+
 ## Overview
 
 X-WBC studies how humanoid whole-body control experience can be shared across
@@ -64,7 +72,7 @@ If you find X-WBC useful, please cite:
 
 ## Institutions
 
-Tongji University · Fudan University · Shanghai Innovation Institute
+Shanghai Innovation Institute · Tongji University · Fudan University · Logos Intelligence Lab
 
 ## License
 
