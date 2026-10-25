@@ -56,7 +56,7 @@ same sparse-VR interaction format on four physical humanoid platforms.
 
 Code and model weights are being prepared for release.
 
-## Citation
+## BibTex
 
 If you find X-WBC useful, please cite:
 
@@ -83,6 +83,4 @@ model artifacts.
 ## Acknowledgements
 
 We thank the authors and maintainers of the humanoid-learning community whose
-open research has made reproducible whole-body control possible. Detailed
-third-party acknowledgements and inherited licenses will accompany the code
-release.
+open research has made reproducible whole-body control possible.
